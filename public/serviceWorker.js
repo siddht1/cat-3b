@@ -1,4 +1,4 @@
-const CHATGPT_NEXT_WEB_CACHE = "cat-lon-3b-web-cache";
+const CHATGPT_NEXT_WEB_CACHE = "Katlon";
 
 self.addEventListener("activate", function (event) {
   console.log("ServiceWorker activated.");
